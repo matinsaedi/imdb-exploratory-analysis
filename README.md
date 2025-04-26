@@ -15,10 +15,10 @@ Click the badge below to open and run the notebook instantly in Google Colab:
 
 ## ✅ Instructions
 1. Clone the repo or open the notebook via the Colab badge above.
-2. **Run all the cells in the following sections sequentially**:
+2. Run **all the cells** in the following sections sequentially:
    - ✅ **Importing Libraries**
    - ✅ **Step 1: Downloading the Datasets from Kaggle and IMDb**
    - ✅ **Step 2: Preprocessing**
-3. Once those are completed, you can **run the remaining sections (Step 3 and Step 4)** cell by cell to view visualizations and predictive modeling results.
+3. Once those are completed, you can run the remaining sections (Step 3 and Step 4) **cell by cell** to view visualizations and predictive modeling results.
 
 
