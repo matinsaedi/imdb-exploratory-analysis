@@ -13,3 +13,12 @@ Click the badge below to open and run the notebook instantly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVzMzBXgk15g65w65qPiR8EWfzP_ErwY#scrollTo=sznks8xNnMS-)
 
+## ✅ Instructions
+1. Click the Colab badge above to open the notebook in Google Colab.
+2. **Run all the cells in the following sections sequentially**:
+   - ✅ **Importing Libraries**
+   - ✅ **Step 1: Downloading the Datasets from Kaggle and IMDb**
+   - ✅ **Step 2: Preprocessing**
+3. Once those are completed, you can **run the remaining sections (Step 3 and Step 4)** cell by cell to view visualizations and predictive modeling results.
+
+
