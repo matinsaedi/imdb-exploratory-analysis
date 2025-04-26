@@ -9,5 +9,6 @@ This project performs an in-depth exploratory and predictive analysis of the **I
 
 ## ✅ Demo
 
+Click the badge below to open and run the notebook instantly in Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVzMzBXgk15g65w65qPiR8EWfzP_ErwY#scrollTo=sznks8xNnMS-)
 
