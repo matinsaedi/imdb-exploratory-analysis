@@ -11,7 +11,10 @@ This project performs an in-depth exploratory and predictive analysis of the **I
 
 Click the badge below to open and run the notebook instantly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bVzMzBXgk15g65w65qPiR8EWfzP_ErwY#scrollTo=sznks8xNnMS-)
+<a href="https://colab.research.google.com/drive/1bVzMzBXgk15g65w65qPiR8EWfzP_ErwY#scrollTo=sznks8xNnMS-" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+</a>
+
 
 ## ✅ Instructions
 1. Clone the repo or open the notebook via the Colab badge above.
